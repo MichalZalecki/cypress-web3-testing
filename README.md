@@ -1,5 +1,7 @@
 # cypress-web3-testing
 
+This repository shows how simple DApp can be tested with Cypress. [Learn more](https://michalzalecki.com/integration-tests-and-mocking-web3-apps/).
+
 ## Setup
 
 In 1st tab
